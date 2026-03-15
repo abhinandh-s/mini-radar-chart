@@ -1,0 +1,59 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg"><rect width="100%" height="100%" fill="#11111b" />
+<rect x="10" y="10" width="08" height="08" rx="2" fill="#f38ba8" />
+<text x="25" y="16.7" style="fill:#cdd6f4;font-size:08px;font-family:sans-serif;font-weight:bold;">Alpha</text>
+<rect x="10" y="28" width="08" height="08" rx="2" fill="#89b4fa" />
+<text x="25" y="34.7" style="fill:#cdd6f4;font-size:08px;font-family:sans-serif;font-weight:bold;">Beta</text>
+<rect x="10" y="46" width="08" height="08" rx="2" fill="#a6e3a1" />
+<text x="25" y="52.7" style="fill:#cdd6f4;font-size:08px;font-family:sans-serif;font-weight:bold;">Theta</text>
+<polygon points="150.00,122.50 173.82,136.25 173.82,163.75 150.00,177.50 126.18,163.75 126.18,136.25" style="fill:none;stroke:#a6adc8;stroke-opacity:0.2;" />
+<polygon points="150.00,95.00 197.63,122.50 197.63,177.50 150.00,205.00 102.37,177.50 102.37,122.50" style="fill:none;stroke:#a6adc8;stroke-opacity:0.2;" />
+<polygon points="150.00,67.50 221.45,108.75 221.45,191.25 150.00,232.50 78.55,191.25 78.55,108.75" style="fill:none;stroke:#a6adc8;stroke-opacity:0.2;" />
+<polygon points="150.00,40.00 245.26,95.00 245.26,205.00 150.00,260.00 54.74,205.00 54.74,95.00" style="fill:none;stroke:#a6adc8;stroke-opacity:0.2;" />
+<line x1="150" y1="150" x2="150" y2="40" style="stroke:#a6adc8;stroke-opacity:0.3;stroke-dasharray:2;" />
+<text x="150" y="25" style="fill:#cdd6f4;font-size:10px;text-anchor:middle;dominant-baseline:middle;font-family:sans-serif;">Speed</text>
+<line x1="150" y1="150" x2="245.26279441628824" y2="95" style="stroke:#a6adc8;stroke-opacity:0.3;stroke-dasharray:2;" />
+<text x="258.25317547305485" y="87.5" style="fill:#cdd6f4;font-size:10px;text-anchor:start;dominant-baseline:middle;font-family:sans-serif;">Power</text>
+<line x1="150" y1="150" x2="245.26279441628827" y2="204.99999999999997" style="stroke:#a6adc8;stroke-opacity:0.3;stroke-dasharray:2;" />
+<text x="258.25317547305485" y="212.49999999999997" style="fill:#cdd6f4;font-size:10px;text-anchor:start;dominant-baseline:middle;font-family:sans-serif;">Agility</text>
+<line x1="150" y1="150" x2="150" y2="260" style="stroke:#a6adc8;stroke-opacity:0.3;stroke-dasharray:2;" />
+<text x="150" y="275" style="fill:#cdd6f4;font-size:10px;text-anchor:middle;dominant-baseline:middle;font-family:sans-serif;">Stamina</text>
+<line x1="150" y1="150" x2="54.73720558371177" y2="205.00000000000003" style="stroke:#a6adc8;stroke-opacity:0.3;stroke-dasharray:2;" />
+<text x="41.74682452694519" y="212.50000000000006" style="fill:#cdd6f4;font-size:10px;text-anchor:end;dominant-baseline:middle;font-family:sans-serif;">Range</text>
+<line x1="150" y1="150" x2="54.737205583711756" y2="94.99999999999999" style="stroke:#a6adc8;stroke-opacity:0.3;stroke-dasharray:2;" />
+<text x="41.746824526945176" y="87.49999999999999" style="fill:#cdd6f4;font-size:10px;text-anchor:end;dominant-baseline:middle;font-family:sans-serif;">Will</text>
+<polygon points="150.00,62.00 207.16,117.00 235.74,199.50 150.00,205.00 83.32,188.50 111.89,128.00" style="fill:#f38ba8;fill-opacity:0.25;stroke:#f38ba8;stroke-width:1;">
+        <animate 
+            attributeName="points" 
+            from="150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00" 
+            to="150.00,62.00 207.16,117.00 235.74,199.50 150.00,205.00 83.32,188.50 111.89,128.00" 
+            dur="1.8s" 
+            begin="0s" 
+            fill="freeze" 
+            calcMode="spline" 
+            keyTimes="0;1" 
+            keySplines="0.4 0 0.2 1" />
+    </polygon>
+<polygon points="150.00,84.00 216.68,111.50 197.63,177.50 150.00,238.00 92.84,183.00 102.37,122.50" style="fill:#89b4fa;fill-opacity:0.25;stroke:#89b4fa;stroke-width:1;">
+        <animate 
+            attributeName="points" 
+            from="150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00" 
+            to="150.00,84.00 216.68,111.50 197.63,177.50 150.00,238.00 92.84,183.00 102.37,122.50" 
+            dur="1.8s" 
+            begin="0s" 
+            fill="freeze" 
+            calcMode="spline" 
+            keyTimes="0;1" 
+            keySplines="0.4 0 0.2 1" />
+    </polygon>
+<polygon points="150.00,139.00 178.58,133.50 216.68,188.50 150.00,172.00 64.26,199.50 73.79,106.00" style="fill:#a6e3a1;fill-opacity:0.25;stroke:#a6e3a1;stroke-width:1;">
+        <animate 
+            attributeName="points" 
+            from="150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00 150.00,150.00" 
+            to="150.00,139.00 178.58,133.50 216.68,188.50 150.00,172.00 64.26,199.50 73.79,106.00" 
+            dur="1.8s" 
+            begin="0s" 
+            fill="freeze" 
+            calcMode="spline" 
+            keyTimes="0;1" 
+            keySplines="0.4 0 0.2 1" />
+    </polygon></svg>

@@ -1,0 +1,8 @@
+[package]
+name = "mini-radar-chart"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+color-palette = {  git = "https://github.com/abhinandh-s/color-palette", features = ["derive"] }
+
